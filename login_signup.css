@@ -1,0 +1,34 @@
+.logo {
+  margin-top: 15px;
+  margin: 14px;
+  
+}
+.nav-item col-6 col-md-auto{
+  padding-left: 80%;
+}
+  
+
+.colorWhite{
+    color: white !important;
+  }
+  .colorBlue{
+    color: rgba(29, 29, 97, 0.8) !important;
+  }
+  .bgcolorBlue{
+    background-color: rgba(40, 40, 48, 0.8) !important;
+  }
+  .bgSignInImage{
+    
+    background-image:
+    url("images/thekkady-teaestate-1-1024x649.jpg");
+   background-size: cover;
+   background-position: center;
+
+  }
+
+  .bgLogInImage{
+    background-image:
+    url("image1/login1.jpg");
+   background-size: cover;
+   background-position: center;
+  }

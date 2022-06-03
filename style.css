@@ -1,0 +1,292 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+
+  background-size: cover;
+  background-repeat: no-repeat;
+ 
+}
+header{
+  background-color: rgb(69, 148, 69);
+}
+img {
+  margin-top: 15px;
+  margin: 14px;
+}
+.head-tag {
+  float: right;
+  margin-top: 44px;
+  margin-right: 200px;
+}
+.head-tag a {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-decoration: none;
+  color: white;
+  border: 1px solid white;
+  padding: 8px;
+  margin-right: 8px;
+}
+.head-tag a:hover {
+  background-color: white;
+  color: black;
+  transition: 0.5s ease-in-out;
+}
+h1{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sidebar{
+  color: white;
+  padding: 65px;
+  font-size: 0.6cm;
+  font-weight: bolder;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+li{
+  color: black;
+}
+/*districts page*/
+.district-header {
+  float: right;
+  margin-top: 44px;
+  margin-right: 200px;
+}
+
+.district-header a {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-decoration: none;
+  color: white;
+  border: 1px solid white;
+  padding: 8px;
+  margin-right: 8px;
+}
+.district-header a:hover {
+  background-color: white;
+  color: black;
+  transition: 0.5s ease-in-out;
+}
+.container{
+  /*border: 2px solid black;*/
+  margin-top: 5px;
+  margin-left:10% ;
+}
+
+.p-box01{
+  border: 2px solid white;
+  width:25%;
+  float: left;
+  margin-left: 30px;
+  margin-top:30px;
+  height: 15em;
+  padding: 5px;
+  background-color: bisque;
+  background-image: url("images/thiruvananthapuram.jpg");  
+  background-repeat: no-repeat;
+  background-size: 100% 50%;
+  padding-top: 250px;
+}
+.p-box02{
+  border: 2px solid white;
+  width:25%;
+  float: left;
+  margin-left: 30px;
+  margin-top:30px;
+  height: 15em;
+  padding: 5px;
+  background-color: bisque;
+  background-image: url("images/kollam.jpg");  
+  background-repeat: no-repeat;
+  background-size: 100% 50%;
+  padding-top: 250px;
+}
+.p-box03{
+  border: 2px solid white;
+  width:25%;
+  float: left;
+  margin-left: 30px;
+  margin-top:30px;
+  height: 15em;
+  padding: 5px;
+  background-color: bisque;
+  background-image: url("images/alappuzha.jpg");  
+  background-repeat: no-repeat;
+  background-size: 100% 50%;
+  padding-top: 250px;
+}
+.p-box04{
+  border: 2px solid white;
+  width:25%;
+  float: left;
+  margin-left: 30px;
+  margin-top:30px;
+  height: 15em;
+  padding: 5px;
+  background-color: bisque;
+  background-image: url("images/kottayam.jpg");  
+  background-repeat: no-repeat;
+  background-size: 100% 50%;
+  padding-top: 250px;
+}
+.p-box05{
+  border: 2px solid white;
+  width:25%;
+  float: left;
+  margin-left: 30px;
+  margin-top:30px;
+  height: 15em;
+  padding: 5px;
+  background-color: bisque;
+  background-image: url("images/pathanamthita.jpg");  
+  background-repeat: no-repeat;
+  background-size: 100% 50%;
+  padding-top: 250px;
+}
+.p-box06{
+  border: 2px solid white;
+  width:25%;
+  float: left;
+  margin-left: 30px;
+  margin-top:30px;
+  height: 15em;
+  padding: 5px;
+  background-color: bisque;
+  background-image: url("images/idukki.jpg");  
+  background-repeat: no-repeat;
+  background-size: 100% 50%;
+  padding-top: 250px;
+}
+.p-box07{
+  border: 2px solid white;
+  width:25%;
+  float: left;
+  margin-left: 30px;
+  margin-top:30px;
+  height: 15em;
+  padding: 5px;
+  background-color: bisque;
+  background-image: url("images/ernakulam.jpg");  
+  background-repeat: no-repeat;
+  background-size: 100% 50%;
+  padding-top: 250px;
+}
+.p-box08{
+  border: 2px solid white;
+  width:25%;
+  float: left;
+  margin-left: 30px;
+  margin-top:30px;
+  height: 15em;
+  padding: 5px;
+  background-color: bisque;
+  background-image: url("images/thrissur.jpg");  
+  background-repeat: no-repeat;
+  background-size: 100% 50%;
+  padding-top: 250px;
+}
+.p-box09{
+  border: 2px solid white;
+  width:25%;
+  float: left;
+  margin-left: 30px;
+  margin-top:30px;
+  height: 15em;
+  padding: 5px;
+  background-color: bisque;
+  background-image: url("images/palakkad.jpg");  
+  background-repeat: no-repeat;
+  background-size: 100% 50%;
+  padding-top: 250px;
+}
+.p-box10{
+  border: 2px solid white;
+  width:25%;
+  float: left;
+  margin-left: 30px;
+  margin-top:30px;
+  height: 15em;
+  padding: 5px;
+  background-color: bisque;
+  background-image: url("images/malappuram.jpg");  
+  background-repeat: no-repeat;
+  background-size: 100% 50%;
+  padding-top: 250px;
+}
+.p-box11{
+  border: 2px solid white;
+  width:25%;
+  float: left;
+  margin-left: 30px;
+  margin-top:30px;
+  height: 15em;
+  padding: 5px;
+  background-color: bisque;
+  background-image: url("images/kozhikode.jpg");  
+  background-repeat: no-repeat;
+  background-size: 100% 50%;
+  padding-top: 250px;
+}
+.p-box12{
+  border: 2px solid white;
+  width:25%;
+  float: left;
+  margin-left: 30px;
+  margin-top:30px;
+  height: 15em;
+  padding: 5px;
+  background-color: bisque;
+  background-image: url("images/wayanad.jpg");  
+  background-repeat: no-repeat;
+  background-size: 100% 50%;
+  padding-top: 250px;
+}
+.p-box13{
+  border: 2px solid white;
+  width:25%;
+  float: left;
+  margin-left: 30px;
+  margin-top:30px;
+  height: 15em;
+  padding: 5px;
+  background-color: bisque;
+  background-image: url("images/kannur.jpg");  
+  background-repeat: no-repeat;
+  background-size: 100% 50%;
+  padding-top: 250px;
+}
+.p-box14{
+  border: 2px solid white;
+  width:25%;
+  float: left;
+  margin-left: 30px;
+  margin-top:30px;
+  height: 15em;
+  padding: 5px;
+  background-color: bisque;
+  background-image: url("images/kasargod.jpg");  
+  background-repeat: no-repeat;
+  background-size: 100% 50%;
+  padding-top: 250px;
+}
+.districts{
+  background-color: green;
+}
+/*Each districts*/
+#districts-h1{
+  margin-left: 150px;
+  margin-top: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-bottom: 30px;
+}
+.districts-content{
+  margin-left: 150px;
+  margin-right: 150px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 0.5cm;
+  margin-bottom: 100px;
+}
+ul{
+  font-size: 1.1em;
+}
